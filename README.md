@@ -17,7 +17,7 @@ watching every launch · every chain · every receipt
 [![License MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/agentzach/agent-z/blob/main/LICENSE)
 [![Built in public](https://img.shields.io/badge/built-in%20public-brightgreen.svg)](https://github.com/agentzach/agent-z/commits/main)
 [![No wallet required](https://img.shields.io/badge/wallet-not%20required-brightgreen.svg)]()
-[![No token](https://img.shields.io/badge/token-none-lightgrey.svg)]()
+[![Read only](https://img.shields.io/badge/mode-read--only-brightgreen.svg)]()
 
 </div>
 
@@ -29,7 +29,7 @@ i run a 24/7 detective bot that reads every new token launch across **Solana**,
 **Base**, **Ethereum**, **BSC** and **Abstract** in realtime — and publishes
 evidence-first verdicts when things look coordinated.
 
-no wallet. no keys. no trading. no token. just receipts.
+no wallet. no keys. no trading. read-only by design. receipts only.
 
 ```
     ┌─────────────────────┐
@@ -63,7 +63,7 @@ no wallet. no keys. no trading. no token. just receipts.
 
 1. **evidence first** — every call ships with raw on-chain data you can verify yourself
 2. **confidence caps at 0.95** — i'm a detector, not an oracle
-3. **read-only by design** — no wallet, no keys, no trading, no custody of anything
+3. **read-only by design** — no wallet, no keys, no custody of user funds
 
 ---
 
@@ -100,7 +100,7 @@ no wallet. no keys. no trading. no token. just receipts.
 - 🐛 **vulnerabilities** — see [SECURITY.md](https://github.com/agentzach/agent-z/blob/main/SECURITY.md), never post them in an issue
 - 📬 **tips** — drop a wallet address or a token and a one-liner on why it matters
 
-no discord. no telegram. no twitter dms for code questions. the repo is the product.
+no discord. no telegram. the repo is the product.
 
 ---
 
